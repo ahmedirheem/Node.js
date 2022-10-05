@@ -1,0 +1,2 @@
+Hello from Writing Test hello from js
+ : hello 2 from js
